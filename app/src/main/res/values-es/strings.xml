@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrinkApp</string>
+    <string name="drink_tittle">¿Que debo beber ahora?</string>
+    <string name="drink_button">BEBER</string>
+    <string name="beer">Cerveza</string>
+    <string name="bourbon">Bourbon</string>
+    <string name="gin">Ginebra</string>
+    <string name="vodka">Vodka</string>
+    <string name="jager">Jägermeister</string>
+    <string name="tequilla">Tequila</string>
+    <string name="water">Agua</string>
+    <string name="whiskey">Whisky</string>
+</resources>

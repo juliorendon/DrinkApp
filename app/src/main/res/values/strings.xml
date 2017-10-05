@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DrinkApp</string>
+    <string name="drink_tittle">What should I drink now?</string>
+    <string name="drink_button">DRINK</string>
+    <string name="beer">Beer</string>
+    <string name="bourbon">Bourbon</string>
+    <string name="gin">Gin</string>
+    <string name="vodka">Vodka</string>
+    <string name="jager">Jägermeister</string>
+    <string name="tequilla">Tequilla</string>
+    <string name="water">Water</string>
+    <string name="whiskey">Whiskey</string>
+
+</resources>
